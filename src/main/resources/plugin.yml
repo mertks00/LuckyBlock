@@ -1,0 +1,4 @@
+name: LuckyBlock
+version: '${project.version}'
+main: me.oyuncozucu.luckyblock.LuckyBlock
+api-version: 1.16
